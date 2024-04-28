@@ -10,3 +10,8 @@
 1. Create a Conda environment using the provided `requirements.txt` file:
    ```bash
    conda env create -n myenv --file requirements.txt
+
+   
+Install CUDA libraries as needed for your system.
+Change the path of the images in the code to point to your image directory.
+Change any other relevant prompts or configurations in the code.
