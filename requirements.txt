@@ -3,7 +3,7 @@ huggingface
 jupyter
 matplotlib
 numpy
-opencv
+opencv-python
 pytorch
 rembg
 spacy
